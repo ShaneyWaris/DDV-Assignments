@@ -1,4 +1,4 @@
-# DDV(Design Drawing & Visualization)-Assignments
+# DDV(Design Drawing & Visualization) 4 Assignments
 It consists of 4 assignments on Human forms, Perspectives, Orthographic view &amp; Isometric view.
 
                               Orthographic drawing
@@ -12,7 +12,7 @@ It consists of 4 assignments on Human forms, Perspectives, Orthographic view &am
 4. Left Side View – Side Elevation
 
 
-		                    Isometric drawing
+		                     Isometric drawing
 - Isometric drawing are used to visually represent the 3 Dimensional Objects in Two Dimensions.
 - In isometric drawing, the three coordinate axes appear equally foreshortened and the angle between any two of them is 120 degrees.
 - Isometric drawing is used to have better understanding of the object.
